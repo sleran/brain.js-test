@@ -1,2 +1,2 @@
-# tensorflow-ml
-Test af tensorflow (machine learning)
+# brain.js-test
+Test af brain.js (machine learning)
